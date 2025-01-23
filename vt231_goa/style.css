@@ -32,3 +32,13 @@ header {
   object-fit: cover;
   border-radius: 4px;
 }
+
+@media (max-width: 600px) {
+  .news-article {
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+}
