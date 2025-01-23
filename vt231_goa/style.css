@@ -33,6 +33,10 @@ header {
   border-radius: 4px;
 }
 
+h2 {
+  margin: 0.5rem 0px;
+}
+
 @media (max-width: 600px) {
   .news-article {
     padding: 10px;
